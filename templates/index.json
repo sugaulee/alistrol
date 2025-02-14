@@ -1,0 +1,80 @@
+{
+    "sections": {
+        "home_hero": {
+            "type": "home_hero"
+        },
+        "logo_marquee": {
+            "type": "logo_marquee"
+        },
+        "clinically_proven": {
+            "type": "clinically_proven"
+        },
+        "benefits": {
+            "type": "benefits"
+        },
+        "ingredients": {
+            "type": "ingredients"
+        },
+        "doctor_stacey": {
+            "type": "doctor_stacey"
+        },
+        "comparison": {
+            "type": "comparison"
+        },
+        "reviews": {
+            "type": "reviews"
+        },
+        "faqs": {
+            "type": "faqs"
+        },
+        "instagram": {
+            "type": "instagram"
+        },
+        "dosage": {
+            "type": "dosage"
+        },
+        "pricing": {
+            "type": "pricing"
+        },
+        "cta": {
+            "type": "cta"
+        },
+        "liquify_hero": {
+            "type": "liquify_hero"
+        },
+        "hero": {
+            "type": "hero"
+        },
+        "category": {
+            "type": "category"
+        },
+        "links": {
+            "type": "links"
+        },
+        "content": {
+            "type": "content"
+        }
+    },
+    "layout": "theme",
+    "wrapper": "main.main-wrapper",
+    "order": [
+        "home_hero",
+        "logo_marquee",
+        "clinically_proven",
+        "benefits",
+        "ingredients",
+        "doctor_stacey",
+        "comparison",
+        "reviews",
+        "faqs",
+        "instagram",
+        "dosage",
+        "pricing",
+        "cta",
+        "liquify_hero",
+        "hero",
+        "category",
+        "links",
+        "content"
+    ]
+}
